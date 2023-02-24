@@ -1,5 +1,5 @@
 fun main() {
-    var typeCard = "Visa"
+    var typeCard = "VK PAY"
     var amountThisMonth = 90000
     var amountNow= 100
     println("________________________________")
@@ -7,7 +7,7 @@ fun main() {
     println("в этом месяце вы уже перевели " + amountThisMonth + " рублей")
     println("сумма для перевода сейчас " + amountNow + " рублей")
     println("________________________________")
-    val result = totalComision(typeCard, amountThisMonth, amountNow)
+    var result = totalComision(typeCard, amountThisMonth, amountNow)
 
     println(result)
 

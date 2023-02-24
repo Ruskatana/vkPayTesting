@@ -6,11 +6,11 @@ class VkPatTestingKtTest {
 
     @Test
     fun totalComision() {
-        var typeCard = "Mastercard"
+        var typeCard = "VK PAY"
         var amountThisMonth = 90000
         var amountNow= 100
-        val result = totalComision(typeCard, amountThisMonth, amountNow )
+        var result = totalComision(typeCard, amountThisMonth, amountNow )
 
-        assertEquals(20.6, result)
+        assertEquals(-1, result)
     }
 }
