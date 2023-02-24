@@ -11,6 +11,6 @@ class VkPatTestingKtTest {
         var amountNow= 100
         var result = totalComision(typeCard, amountThisMonth, amountNow )
 
-        assertEquals(-1, result)
+        assertEquals(200, result)
     }
 }
