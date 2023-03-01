@@ -6,11 +6,38 @@ class VkPatTestingKtTest {
 
     @Test
     fun totalComision() {
-        var typeCard = "VK PAY"
-        var amountThisMonth = 90000
-        var amountNow= 100
+        var typeCard = "Visa"
+        var amountThisMonth = 10
+        var amountNow= 200
+        var result = totalComision(typeCard, amountThisMonth, amountNow)
+
+        assertEquals(35, result)
+    }
+    @Test
+    fun totalComision2() {
+        var typeCard = "Mastercard"
+        var amountThisMonth = 700
+        var amountNow= 500
         var result = totalComision(typeCard, amountThisMonth, amountNow )
 
-        assertEquals(200, result)
+        assertEquals(35, result)
+    }
+    @Test
+    fun totalComision3() {
+        var typeCard = "Мир"
+        var amountThisMonth = 50
+        var amountNow= 460
+        var result = totalComision(typeCard, amountThisMonth, amountNow )
+
+        assertEquals(35, result)
+    }
+    @Test
+    fun totalComision4() {
+        var typeCard = "VK PAY"
+        var amountThisMonth = 799
+        var amountNow= 500
+        var result = totalComision(typeCard, amountThisMonth, amountNow )
+
+        assertEquals(35, result)
     }
 }
