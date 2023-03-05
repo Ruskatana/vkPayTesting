@@ -40,6 +40,16 @@ class VkPatTestingKtTest {
 
         assertEquals(176, result)
     }
+    @Test
+    fun totalComisionMastercard3() {
+        var typeCard = "Mastercard"
+        var amountThisMonth = 50000
+        var amountNow= 260000
+        var result = totalComision(typeCard, amountThisMonth, amountNow )
+
+        assertEquals(-1, result)
+    }
+
 
     @Test
     fun totalComisionMir1() {
@@ -62,8 +72,8 @@ class VkPatTestingKtTest {
     @Test
     fun totalComisionVkPay1() {
         var typeCard = "VK PAY"
-        var amountThisMonth = 799
-        var amountNow= 500
+        var amountThisMonth = 2000
+        var amountNow= 10000
         var result = totalComision(typeCard, amountThisMonth, amountNow )
 
         assertEquals(0, result)

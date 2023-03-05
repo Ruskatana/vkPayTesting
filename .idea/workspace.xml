@@ -72,30 +72,7 @@
       <command value="gradle test jacocoTestReport" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.VkPatTestingKtTest.totalComisionMistake">
-    <configuration name="VkPatTestingKtTest.totalComisionMaestro2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComisionMaestro2&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.VkPatTestingKtTest.totalComisionMastercard3">
     <configuration name="VkPatTestingKtTest.totalComisionMastercard2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -119,7 +96,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComisionMir2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionMastercard3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -132,7 +109,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComisionMir2&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionMastercard3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -165,7 +142,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComisionVisa2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionVkPay1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -178,7 +155,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComisionVisa2&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionVkPay1&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -188,13 +165,35 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="vkPayTesting [test jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+            <option value="jacocoTestReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMistake" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMaestro2" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMir2" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMastercard3" />
         <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMastercard2" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionVisa2" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionVkPay1" />
+        <item itemvalue="Gradle.vkPayTesting [test jacocoTestReport]" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMistake" />
       </list>
     </recent_temporary>
   </component>

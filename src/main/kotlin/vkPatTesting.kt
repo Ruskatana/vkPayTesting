@@ -1,5 +1,6 @@
 fun main() {
 
+
     var result = totalComision("Visa", 10, 200)
 
     println(result)
