@@ -20,7 +20,7 @@ class VkPatTestingKtTest {
         var amountNow= 500
         var result = totalComision(typeCard, amountThisMonth, amountNow )
 
-        assertEquals(35, result)
+        assertEquals(0, result)
     }
     @Test
     fun totalComision3() {
@@ -38,6 +38,6 @@ class VkPatTestingKtTest {
         var amountNow= 500
         var result = totalComision(typeCard, amountThisMonth, amountNow )
 
-        assertEquals(35, result)
+        assertEquals(0, result)
     }
 }

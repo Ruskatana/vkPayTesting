@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1513acb-d308-41d7-bde1-0c7e2a00c0c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/vkPatTesting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/vkPatTesting.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/kotlin/VkPatTestingKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/VkPatTestingKtTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
-    "last_opened_file_path": "C:/Users/Home/IdeaProjects/vkPayTesting"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Home/IdeaProjects/vkPayTesting&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -73,7 +70,7 @@
       <command value="gradle test jacocoTestReport" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.vkPayTesting [test jacocoTestReport]">
+  <component name="RunManager" selected="Gradle.VkPatTestingKtTest">
     <configuration name="VkPatTestingKtTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -120,7 +117,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComision2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComision2 (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -134,6 +131,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;VkPatTestingKtTest.totalComision2&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="VkPatTestingKtTest.totalComision3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;VkPatTestingKtTest.totalComision3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -166,35 +186,13 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="vkPayTesting [test jacocoTestReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="test" />
-            <option value="jacocoTestReport" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.vkPayTesting [test jacocoTestReport]" />
         <item itemvalue="Gradle.VkPatTestingKtTest" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision4" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision2" />
         <item itemvalue="Gradle.VkPatTestingKtTest.totalComision" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision4" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision3" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision2 (1)" />
       </list>
     </recent_temporary>
   </component>
