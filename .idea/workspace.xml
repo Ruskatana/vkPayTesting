@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a1513acb-d308-41d7-bde1-0c7e2a00c0c0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/vkPatTesting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/vkPatTesting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/VkPatTestingKtTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/VkPatTestingKtTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +72,8 @@
       <command value="gradle test jacocoTestReport" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.VkPatTestingKtTest">
-    <configuration name="VkPatTestingKtTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.VkPatTestingKtTest.totalComisionMistake">
+    <configuration name="VkPatTestingKtTest.totalComisionMaestro2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -84,7 +86,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionMaestro2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -94,7 +96,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComision" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionMastercard2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -107,7 +109,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComision&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionMastercard2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -117,7 +119,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComision2 (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionMir2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -130,7 +132,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComision2&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionMir2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -140,7 +142,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComision3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionMistake" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -153,7 +155,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComision3&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionMistake&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -163,7 +165,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="VkPatTestingKtTest.totalComision4" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="VkPatTestingKtTest.totalComisionVisa2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -176,7 +178,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;VkPatTestingKtTest.totalComision4&quot;" />
+            <option value="&quot;VkPatTestingKtTest.totalComisionVisa2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -188,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.VkPatTestingKtTest" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision4" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision3" />
-        <item itemvalue="Gradle.VkPatTestingKtTest.totalComision2 (1)" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMistake" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMaestro2" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMir2" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionMastercard2" />
+        <item itemvalue="Gradle.VkPatTestingKtTest.totalComisionVisa2" />
       </list>
     </recent_temporary>
   </component>
